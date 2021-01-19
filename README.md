@@ -14,7 +14,7 @@ I am very much interested to work as a software developer or a full stack develo
 
 ## Links
 
-- [source repository](https://github.com/strygwyr55/ "repo")
-- [source repository](https://www.linkedin.com/in/enid-maharjan-83989119a/ "repo")
+- [Github](https://github.com/strygwyr55/ "repo")
+- [Linkedin](https://www.linkedin.com/in/enid-maharjan-83989119a/ "repo")
 
 
