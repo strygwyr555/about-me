@@ -17,4 +17,6 @@ I am very much interested to work as a software developer or a full stack develo
 - [Github](https://github.com/strygwyr555/)
 - [Linkedin](https://www.linkedin.com/in/enid-maharjan-83989119a/)
 
+![Image Link](https://github.com/strygwyr555/about-me/blob/main/pic.jpeg)
+
 
